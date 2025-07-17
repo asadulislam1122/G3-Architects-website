@@ -72,8 +72,10 @@ align-items: center;
     font-size: 4rem;
     font-weight: 700;
 }
+/* agar jaigai anta akana sudu with 100% thakba ar kichu thakbana */
 .banner-image{
     width: 100%;
+    
 }
 /* Responsive midiya query */
 @media screen and (max-width: 576px) {
